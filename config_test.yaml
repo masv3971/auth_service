@@ -1,0 +1,9 @@
+---
+api_server:
+  addr: localhost:8080
+  basic_auth:
+    masv: passwd
+log:
+  level:
+  folder_path:
+production: false
